@@ -1,0 +1,65 @@
+div{
+    border: 1px black solid;
+    background-color: green;
+    width: 550px;
+    height: 340px;
+}
+.a{
+    border: 2px yellow solid;
+    width: 250px;
+    height: 150px;
+    background-color: yellow;
+}
+.b{
+    border: 1px solid white;
+    height: 20px;width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 180px;
+}
+.c{
+    border: 1px white solid;
+    height: 20px;width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 220px;
+}
+.d{
+    border: 1px white solid;
+height: 20px;width: 550px;
+background-color: white;
+position: absolute;
+top: 260px;
+
+}
+.e{
+    border: 1px white solid;
+    height: 20px;width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+}
+.img{
+    position: absolute;
+    top: 300px;
+}
+.circle{
+    background-color: white;
+    height: 100px;width: 100px;
+    position: absolute;
+    left: 370px;top: 40px;
+    border-radius: 140px;
+
+}
+.circle2{
+    background-color: green;
+    height: 100px;width: 100px;
+    position: absolute;
+    left: 385px;top: 35px; 
+    border-radius: 140px;
+    border: green;
+}
+img{
+    position: absolute;
+    top: 65px;left: 460px;
+}

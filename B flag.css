@@ -1,0 +1,29 @@
+div {
+    border: 3px solid black;
+    height: 300px;
+    width: 500px;
+    background-color: darkgreen
+    ;
+}
+
+
+#inner {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background-color: red;
+    position: relative;
+    top: 70px;
+    left: 150px;
+}
+
+h1 {
+    text-align: center;
+    color: white; 
+    margin-left: 0.1%;
+}
+body {
+    background-color: black;
+    margin-left: 40%;
+    margin-top: 15%;
+}

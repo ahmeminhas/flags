@@ -1,0 +1,24 @@
+#a {
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    /* border: 0.5px solid; */
+}
+
+#b {
+    height: 100px;
+    width: 300px;
+    background-color: rgb(242, 26, 26);
+    /* border: 0.5px solid; */
+}
+
+body {
+    background-color: black;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+h1 {
+    margin-left: 70px;
+    color: white;
+}
